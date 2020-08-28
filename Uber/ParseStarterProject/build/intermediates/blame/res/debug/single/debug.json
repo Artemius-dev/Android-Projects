@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_drriver_location.xml.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\layout\\activity_drriver_location.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_requests.xml.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\layout\\activity_view_requests.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\drawable_uberlogo.jpg.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\drawable\\uberlogo.jpg"
+    },
+    {
+        "merged": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout_activity_rider.xml.flat",
+        "source": "D:\\AndroidWorkbeach\\Uber\\ParseStarterProject\\src\\main\\res\\layout\\activity_rider.xml"
+    }
+]
